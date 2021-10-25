@@ -1,0 +1,9 @@
+__pycache__
+*.npy
+*.pickle
+*.pyc
+datasets/
+.idea/
+.pytest_cache/
+data/
+.DS_Store
